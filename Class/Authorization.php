@@ -2,7 +2,7 @@
 /**
  * Clase Authorization
  * 
- * Clase que sirve para validar usuarios en el sistema
+ * Clase que sirve para validar usuarios en el sistema del app
  * @author
  */
 class Authorization
